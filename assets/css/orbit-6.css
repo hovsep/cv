@@ -312,6 +312,11 @@ p {
   color: #fb866a;
 }
 
+.skill-badge {
+  font-size: 18px;
+  margin-bottom: 5px;
+}
+
 @media (max-width: 767.98px) {
   .sidebar-wrapper {
     position: static;
